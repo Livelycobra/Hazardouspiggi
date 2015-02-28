@@ -6,6 +6,8 @@
 - No Inappropriate videos
 - No spamming
 - Do not repeat songs recently played
+- Check play history by clicking the clock to avoid being skiped
+- Dont Play OP Songs
 
 Tips and Tricks 
 
