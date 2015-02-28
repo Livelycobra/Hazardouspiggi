@@ -26,3 +26,4 @@ Tips
 - !commands Gives you all the listed commands.
 - !eta Tells you your aprox time till your at the booth!
 - !dc Is when you disconect accedently to move you back yo the spot in the que.
+
