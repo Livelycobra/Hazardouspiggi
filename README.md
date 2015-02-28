@@ -1,8 +1,5 @@
 # Rules
-
-
 - We ask that no songs longer than 6 minutes
-- 
 - Only EDM & Pop music allowed (No Complations Please!)
 - No cursing/racism allowed
 - No trolling
