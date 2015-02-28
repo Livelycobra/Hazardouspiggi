@@ -6,7 +6,7 @@
 - No Inappropriate videos
 - No spamming
 - Do not repeat songs recently played
-- Check play history by clicking the clock to avoid being skiped
+- Check play history by clicking the clock to avoid being skiped. (song that have been palyed 2+ times in 2 hours will be skiped!)
 - Dont Play OP Songs
 
 Tips and Tricks 
