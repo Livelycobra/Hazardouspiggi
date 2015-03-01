@@ -1,12 +1,12 @@
 #Rules and Etiquette For Plug.dj.
 
-• We allow all music genres under 8 minutes, even mixes/mashups! However, we focus more on EDM music and we want actual music, no parodies.
+• We allow all music genres under 6 minutes, even mixes/mashups! However, we focus more on EDM music and we want actual music so please, no parodies.
 
-• We allow swearing, but you cannot use it to disrespect others or use racism/stereotypes. Pornography is restricted from here as well, so is anything 18+. Just have the parts covered up. ;)
+• We DON'T allow swearing, or the use of racism/stereotypes. Pornography Or Any NSFW Contentis restricted from here as well, so is anything 18+ 
 
 • Repeating a song in the history is prohibited.
 
-• We do not allow requests of fans, skips, mehs, songs, and woots. We pick what we please.
+• We do not allow requests of fans, skips, mehs, songs, and woots.
 
 • Having more mehs than woots for 10 seconds would result in a song skip.
 
@@ -14,4 +14,4 @@
 
 • No advertisements of other places or communities.
 
-• Enjoy your experiences! We do appreciate new ideas into the community.
+• Don't Play OP Songs
