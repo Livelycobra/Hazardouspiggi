@@ -18,5 +18,7 @@ Tips and Tricks
 - !op Gives you the over played list
 
 Bot Hours
+
 Weekday 4pm cst to 9pm cst
+
 Weekend 9am cst to 9pm cst
