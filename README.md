@@ -1,24 +1,17 @@
-# Rules
-- We ask that no songs longer than 6 minutes
-- Only EDM & Pop music allowed (No Complations Please!)
-- No cursing/racism allowed
-- No trolling
-- No Inappropriate videos or NSFW content
-- No spamming
-- Do not repeat songs recently played
-- Check play history by clicking the clock to avoid being skiped. (song that have been palyed 2+ times in 2 hours will be skiped!)
-- Dont Play OP Songs
+#Rules and Etiquette For Plug.dj.
 
-Tips and Tricks 
+• We allow all music genres under 8 minutes, even mixes/mashups! However, we focus more on EDM music and we want actual music, no parodies.
 
-- !commands Gives you all the listed commands.
-- !eta Tells you your aprox time till your at the booth!
-- !dc Is when you disconect accedently to move you back yo the spot in the que.
-- !rules brings you to the GitHub Page
-- !op Gives you the over played list
+• We allow swearing, but you cannot use it to disrespect others or use racism/stereotypes. Pornography is restricted from here as well, so is anything 18+. Just have the parts covered up. ;)
 
-Bot Hours
+• Repeating a song in the history is prohibited.
 
-Weekday 4pm cst to 9pm cst
+• We do not allow requests of fans, skips, mehs, songs, and woots. We pick what we please.
 
-Weekend 9am cst to 9pm cst
+• Having more mehs than woots for 10 seconds would result in a song skip.
+
+• It is suggested that you would not meh a song instantly. Give it some time. If you don’t like it, you may freely meh the song.
+
+• No advertisements of other places or communities.
+
+• Enjoy your experiences! We do appreciate new ideas into the community.
