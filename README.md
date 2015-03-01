@@ -3,7 +3,7 @@
 - Only EDM & Pop music allowed (No Complations Please!)
 - No cursing/racism allowed
 - No trolling
-- No Inappropriate videos or NSFW content
+- No Inappropriate videos or NSFW content (https://github.com/Livelycobra/hazardouspiggi/blob/master/NSFW.md)
 - No spamming
 - Do not repeat songs recently played
 - Check play history by clicking the clock to avoid being skiped. (song that have been palyed 2+ times in 2 hours will be skiped!)
