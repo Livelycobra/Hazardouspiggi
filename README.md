@@ -2,7 +2,7 @@
 
 • We allow all music genres under 6 minutes, yes even mash-ups and mixes!  However, we focus more on EDM music and we want actual music so please, no parodies.
 
-• We DON'T allow swearing, or the use of racism/stereotypes. Pornography Or Any NSFW Content restricted from here as well, so is anything 18+ 
+• We DON'T allow swearing, or the use of racism/stereotypes. Any NSFW Content restricted from here as well, so is anything 18+ 
 
 • Repeating a song in the history is prohibited.
 
