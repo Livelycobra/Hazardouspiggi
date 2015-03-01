@@ -1,6 +1,8 @@
 #Rules and Etiquette For Plug.dj.
 
-• We allow all music genres under 6 minutes, yes even mash-ups and mixes!  However, we focus more on EDM music and we want actual music so please, no parodies.
+• No songs over 6 minutes. 
+
+• EDM only.
 
 • We DON'T allow swearing, or the use of racism/stereotypes. 
 
