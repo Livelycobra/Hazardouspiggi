@@ -3,7 +3,7 @@
 - Only EDM & Pop music allowed (No Complations Please!)
 - No cursing/racism allowed
 - No trolling
-- No Inappropriate videos or NSFW content (https://github.com/Livelycobra/hazardouspiggi/blob/master/NSFW.md)
+- No Inappropriate videos or NSFW content
 - No spamming
 - Do not repeat songs recently played
 - Check play history by clicking the clock to avoid being skiped. (song that have been palyed 2+ times in 2 hours will be skiped!)
@@ -16,3 +16,7 @@ Tips and Tricks
 - !dc Is when you disconect accedently to move you back yo the spot in the que.
 - !rules brings you to the GitHub Page
 - !op Gives you the over played list
+
+Bot Hours
+Weekday 4pm cst to 9pm cst
+Weekend 9am cst to 9pm cst
